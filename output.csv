@@ -1,0 +1,5 @@
+"Descrição","Acurácia","F1-Score","Recall","Precisão,MCC"
+"australian.dat - Perceptron - Normalizado - Split # 0 - Treino # 0",0.0,0.0,0.0,0.0,0.0
+"australian.dat - Perceptron - Padronizado - Split # 0 - Treino # 0",0.0,0.0,0.0,0.0,0.0
+"australian.dat - Decision Tree - Normalizado - Split # 0 - Treino # 0",0.0,0.0,0.0,0.0,0.0
+"australian.dat - Decision Tree - Padronizado - Split # 0 - Treino # 0",0.0,0.0,0.0,0.0,0.0
