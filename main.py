@@ -72,8 +72,8 @@ for file in listdir(dir):
         padr_ft_test = s.transform(ft_test)
                 
         n = Normalizer()
-        norm_ft_train = s.fit_transform(ft_train)
-        norm_ft_test = s.transform(ft_test)
+        norm_ft_train = n.fit_transform(ft_train)
+        norm_ft_test = n.transform(ft_test)
 
         for j in range(30):
             percep = Perceptron(max_iter=100, random_state=0 ,eta0=0.1, n_jobs=-1)
